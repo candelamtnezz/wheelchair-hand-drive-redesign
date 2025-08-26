@@ -1,0 +1,17 @@
+📂 wheelchair-hand-drive-redesign
+ ┣ 📂 report
+ ┃ ┗ Report_CandelaMartinez.pdf
+ ┣ 📂 images
+ ┃ ┣ prototype_placeholder.jpg
+ ┃ ┣ cad_view_placeholder.png
+ ┃ ┗ testing_placeholder.jpg
+ ┣ 📂 cad_files
+ ┃ ┣ spider_gear_placeholder.stl
+ ┃ ┗ assembly_placeholder.ipt
+ ┣ 📂 docs
+ ┃ ┗ 02_concept_design.md   <-- optional, full text of Section 2 later
+ ┣ 📂 presentations
+ ┃ ┗ defense_slides_placeholder.pdf
+ ┣ 📄 README.md
+ ┣ 📄 LICENSE
+ ┗ 📄 .gitignore
